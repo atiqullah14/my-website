@@ -1,0 +1,53 @@
+.one{
+color: chocolate;
+}
+body{
+    font-family: 'Be Vietnam Pro', sans-serif;
+
+}
+.two{
+
+    background-color: chocolate;
+    border-radius: 5px;
+}
+.three{
+    color: chocolate;
+}
+section{
+    display: flex;
+}
+}
+.four{
+    width: 50%;
+    padding-left: 15%;
+}
+.four img{
+    width: 30%;
+}
+.five{
+    color: chocolate;
+    text-align: center;
+}
+.six{
+    width: 30%;
+    margin-left: 20px;
+    box-shadow: 10px 10px 20px gray;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.six img{
+    width: 50%;
+}
+.class{
+    background-color: chocolate;
+}
+.eight{
+    display: flex;
+    padding-left: 5%;
+}
+.eight img{
+    width: 50%;
+}
+.ten{
+    background-color: chocolate;
+}
